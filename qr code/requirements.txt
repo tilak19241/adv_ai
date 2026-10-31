@@ -1,0 +1,3 @@
+# Dependency manifest. Requires Python 3.9 or newer.
+# The pil extra installs Pillow for image generation and display.
+qrcode[pil]==8.2
